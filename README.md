@@ -68,9 +68,13 @@ test_client.py — скрипт для проверки API
 Создайте файл `.env` в корне проекта:
 
 POSTGRES_USER=postgres
+
 POSTGRES_PASSWORD=postgres
+
 POSTGRES_DB=ads_db
+
 POSTGRES_HOST=localhost
+
 POSTGRES_PORT=5432
 
 Все переменные уже настроены для работы с Docker.
